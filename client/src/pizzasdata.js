@@ -14,7 +14,7 @@ const pizzas = [{
     }
   ],
   "category": "nonveg",
-  "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+  "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
   "description": "Pepper Barbecue Chicken I Cheese"
 },{
   
@@ -32,7 +32,7 @@ const pizzas = [{
     }
   ],
   "category": "nonveg",
-  "image": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+  "image": "https://images.unsplash.com/photo-1458642849426-cfb724f15ef7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
   "description": "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers"
 },{
   
@@ -51,7 +51,7 @@ const pizzas = [{
   ],
   "category": "veg",
   "description": "Corn over the base makes it look beautiful. It is served with tomato sauce and chili flakes are sprinkled over the topping according the taste. After mixing all the ingredients, it is baked by adding cheese and corn for added flavor to pizza. Corn adds health and sweet taste to the pizza.",
-  "image": "https://www.crazymasalafood.com/wp-content/images/golden-1.jpg"
+  "image": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=807&q=80"
 },{
   
   "name": "Jalapeno & Red Paprika Pizza",
@@ -68,8 +68,7 @@ const pizzas = [{
     }
   ],
   "category": "veg",
-  "image": "https://www.crazymasalafood.com/wp-content/images/jalepeno.jpg",
-  "description": "This pizza is amazing and can become more delicious if we will add some more cheese in it. Ingredients are yeast, sugar, olive oil, salt, and all-purpose flour in a big bowl. After mixing all the ingredients, it is baked by adding Jalapeno and Paprika with corns over the cheese layer. The base is made crunchy to give it best taste. It can be made more tasty by sprinkling chili flakes and Oregano as per the taste."
+  "image": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80"
 },{
   
   "name": "Margerita",
@@ -104,7 +103,7 @@ const pizzas = [{
     }
   ],
   "category": "veg",
-  "image": "https://www.crazymasalafood.com/wp-content/images/double-1.jpg",
+  "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza-500x500.jpg",
   "description": "This is a plain pizza which have cheese on it which is margherita and is delicious because of the loads of cheese. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding double layer of cheese over it"
 }]
 export default pizzas
