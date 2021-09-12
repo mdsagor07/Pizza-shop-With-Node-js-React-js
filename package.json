@@ -1,0 +1,24 @@
+{
+  "name": "pizza-shop-the-complete-node-js-react-js-development",
+  "version": "1.0.0",
+  "description": "Pizza shop with MERN stack development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsagor07/Pizza-shop-With-Node-js-React-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsagor07/Pizza-shop-With-Node-js-React-js/issues"
+  },
+  "homepage": "https://github.com/mdsagor07/Pizza-shop-With-Node-js-React-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
