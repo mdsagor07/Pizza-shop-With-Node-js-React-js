@@ -1,4 +1,6 @@
 const express = require('express')
+const db = require('./db')
+
 const app = express()
 
 //cors to fix cors origin, body-parser to fix the post value on the server
