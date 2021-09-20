@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/mdsagor07/Pizza-shop-With-Node-js-React-js#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.12"
   }
 }

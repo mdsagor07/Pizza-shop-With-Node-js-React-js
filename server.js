@@ -8,7 +8,7 @@ app.use(express.json());
 
 
 app.get('/', (req, res) => {
-  res.send('server working')
+  res.send('server is   working')
 })
 
 const port=process.env.PORT|| 5000
